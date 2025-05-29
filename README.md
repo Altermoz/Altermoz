@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Altermoz/Altermoz/output/snake.svg" alt="Snake animation" />
+
 
 ###

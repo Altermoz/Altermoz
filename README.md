@@ -3,7 +3,7 @@
 </div>
 
 <div align="center>
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Altermoz/Altermoz/blob/main/gifs/juuzou-suzuya.gif">
+<img alt="GIF" align="center" src="https://github.com/Altermoz/Altermoz/blob/main/gifs/juuzou-suzuya.gif">
 </div>
 
 </br>
